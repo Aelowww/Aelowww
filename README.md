@@ -1,144 +1,129 @@
+<!-- ░░ HEADER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Carl%20Gemuel%20Taberna&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=BSIT%20Student%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Iloilo%20City%2C%20PH&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Carl+Gemuel+Taberna!+%F0%9F%91%8B;BSIT+Student+%7C+Full-Stack+Developer;Building+practical+web+apps+%F0%9F%9A%80" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+practical+web+apps+%F0%9F%9A%80;Currently+shipping+Teech+%F0%9F%93%85;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Powered+by+coffee+and+console.log()+%E2%98%95" alt="typing" />
 
-📍 Iloilo City, Philippines &nbsp;•&nbsp; 💼 BSIT Student &nbsp;•&nbsp; 🚀 Full-Stack Developer
+<a href="https://carldev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-carldev.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/carlgemueltaberna"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://x.com/aelowww"><img src="https://img.shields.io/badge/X-@aelowww-E6EDF3?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:taberna.carlq11a@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
-<a href="https://carldev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/carlgemueltaberna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/aelowww"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="mailto:taberna.carlq11a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Aelowww&style=flat-square&color=58a6ff&label=Profile+views" />
+<a href="https://github.com/Aelowww?tab=followers"><img src="https://img.shields.io/github/followers/Aelowww?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117" /></a>
+<img src="https://img.shields.io/github/stars/Aelowww?affiliations=OWNER&label=Stars&style=flat-square&color=e3b341&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Aelowww&label=Profile%20views&style=flat-square&color=3fb950" />
 
 </div>
 
----
+<!-- ░░ ABOUT + SNAPSHOT (side by side) ░░ -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 👨‍💻 About Me
+### 👋 About me
 
-```python
-class Carl:
-    def __init__(self):
-        self.role = "BSIT Student & Full-Stack Developer"
-        self.location = "Iloilo City, PH 🇵🇭"
-        self.focus = ["Full-stack web apps", "Problem solving", "Clean code"]
-        self.learning = ["Backend architecture", "Database design", "DevOps"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something useful. 🚀")
+```ts
+const carl = {
+  role:     "BSIT Student · Full-Stack Dev",
+  based:    "Iloilo City, PH 🇵🇭",
+  building: ["Teech", "KonektBarangay"],
+  learning: ["Backend architecture", "DevOps"],
+  fuel:     "☕ + lo-fi",
+};
 ```
 
-- 🔭 Currently building **[Teech](https://github.com/Aelowww/Teech)**, a consultation appointment platform for students and faculty
-- 🌱 Learning backend architecture, database design, and DevOps
-- 🤝 Open to collaborating on student and community projects
-- 💬 Ask me about **Next.js, React, TypeScript, and Node.js**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,supabase&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Databases</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
-</p>
-
-<p align="center">
-  <b>Tools & Deployment</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,vscode&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📅 [Teech](https://github.com/Aelowww/Teech)
-Full-stack consultation appointment platform for students and faculty.
-
-`Next.js` `TypeScript` `PostgreSQL`
-
-🔗 [Live demo](https://teech-app.vercel.app)
-
 </td>
 <td width="50%" valign="top">
 
-### 🏘️ [KonektBarangay](https://github.com/Aelowww/KonektBarangay)
-Digital barangay services platform for document requests and appointments.
+### ⚡ Quick facts
 
-`React` `Node.js` `MongoDB`
-
-🔗 [Live demo](https://konektbarangay.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ [AwesomeToDo-s](https://github.com/Aelowww/AwesomeToDo-s)
-Full-stack task manager with real-time sync.
-
-`MongoDB` `Express` `React` `Node.js`
-
-🔗 [Live demo](https://awesometodo-s-1.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 [Personal Portfolio](https://github.com/Aelowww/Personal-Portfolio)
-My developer portfolio showcasing projects and experience.
-
-`Next.js` `TypeScript`
-
-🔗 [Live site](https://carldev.vercel.app)
+- 🔭 Shipping **[Teech](https://github.com/Aelowww/Teech)**, a consultation booking platform
+- 🏘️ Built **[KonektBarangay](https://github.com/Aelowww/KonektBarangay)** for barangay services
+- 🌱 Leveling up in databases & deployment
+- 🤝 Open to collabs on student & community projects
+- 💬 Ask me about **Next.js, React, TypeScript, Node**
 
 </td>
 </tr>
 </table>
 
----
+<!-- ░░ TECH STACK (animated) ░░ -->
+<h3 align="center">🛠 Tech I work with</h3>
+<p align="center"><img src="./assets/techstack.svg" width="100%" alt="Tech stack" /></p>
 
-## 📊 GitHub Stats
+<!-- ░░ STATS (full width) ░░ -->
+<h3 align="center">📊 GitHub at a glance</h3>
+<table width="100%">
+<tr>
+<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aelowww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" /></td>
+<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelowww&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&card_height=195" width="100%" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=Aelowww&theme=tokyonight&hide_border=true" width="100%" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aelowww&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" /></td>
+</tr>
+</table>
 
+<!-- ░░ SNAKE ░░ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aelowww/Aelowww/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aelowww/Aelowww/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Aelowww/Aelowww/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<!-- ░░ PROJECTS (2x2 grid) ░░ -->
+<h3 align="center">🚀 Featured projects</h3>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**📅 [Teech](https://github.com/Aelowww/Teech)**<br/>
+<sub>Consultation appointment platform for students & faculty.</sub><br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+<a href="https://teech-app.vercel.app">Live ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+**🏘️ [KonektBarangay](https://github.com/Aelowww/KonektBarangay)**<br/>
+<sub>Digital barangay services: document requests & appointments.</sub><br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+<a href="https://konektbarangay.vercel.app">Live ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✅ [AwesomeToDo-s](https://github.com/Aelowww/AwesomeToDo-s)**<br/>
+<sub>Full-stack task manager with real-time sync.</sub><br/><br/>
+<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" /><br/>
+<a href="https://awesometodo-s-1.onrender.com/">Live ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+**💼 [Personal Portfolio](https://github.com/Aelowww/Personal-Portfolio)**<br/>
+<sub>Where my projects and experience live.</sub><br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+<a href="https://carldev.vercel.app">Live ↗</a>
+
+</td>
+</tr>
+</table>
+
+<!-- ░░ FOOTER ░░ -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aelowww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelowww&layout=compact&theme=tokyonight&hide_border=true" />
+<sub>`$ git commit -m "final fix"` → `"final fix for real"` → `"ok THIS is the final fix"` 😅</sub>
 
-<img src="https://streak-stats.demolab.com?user=Aelowww&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aelowww&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<br/>⭐ <b>Like something here? Drop a star!</b> ⭐
 
 </div>
 
----
-
-## 💡 Fun Fact
-
-```bash
-$ git commit -m "final fix"
-$ git commit -m "final fix for real"
-$ git commit -m "ok THIS is the final fix" 😅
-```
-
----
-
-<div align="center">
-
-⭐ **If you like my projects, consider giving them a star!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" />
