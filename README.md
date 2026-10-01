@@ -70,9 +70,9 @@ const carl = {
 <!-- ░░ SNAKE ░░ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aelowww/Aelowww/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aelowww/Aelowww/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Aelowww/Aelowww/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
+    <img alt="snake eating my contributions" src="./assets/snake-dark.svg" width="100%" />
   </picture>
 </p>
 
