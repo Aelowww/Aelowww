@@ -47,49 +47,24 @@
 
 <!-- ░░ PROJECTS (2x2 grid) ░░ -->
 <h3 align="center">🚀 Featured projects</h3>
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📅 [Teech](https://github.com/Aelowww/Teech)**<br/>
-<sub>Consultation appointment platform for students & faculty.</sub><br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-<a href="https://teech-app.vercel.app">Live ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-**🏘️ [KonektBarangay](https://github.com/Aelowww/KonektBarangay)**<br/>
-<sub>Digital barangay services: document requests & appointments.</sub><br/><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
-<a href="https://konektbarangay.vercel.app">Live ↗</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**✅ [AwesomeToDo-s](https://github.com/Aelowww/AwesomeToDo-s)**<br/>
-<sub>Full-stack task manager with real-time sync.</sub><br/><br/>
-<img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" /><br/>
-<a href="https://awesometodo-s-1.onrender.com/">Live ↗</a>
-
-</td>
-<td width="50%" valign="top">
-
-**💼 [Personal Portfolio](https://github.com/Aelowww/Personal-Portfolio)**<br/>
-<sub>Where my projects and experience live.</sub><br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-<a href="https://carldev.vercel.app">Live ↗</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Aelowww/Teech"><img src="./assets/proj-teech.svg" width="49%" alt="Teech" /></a>
+  <a href="https://github.com/Aelowww/KonektBarangay"><img src="./assets/proj-konektbarangay.svg" width="49%" alt="KonektBarangay" /></a>
+  <a href="https://github.com/Aelowww/AwesomeToDo-s"><img src="./assets/proj-awesometodo.svg" width="49%" alt="AwesomeToDo-s" /></a>
+  <a href="https://github.com/Aelowww/Personal-Portfolio"><img src="./assets/proj-portfolio.svg" width="49%" alt="Personal Portfolio" /></a>
+</p>
+<p align="center"><sub>
+  Live demos →
+  <a href="https://teech-app.vercel.app">Teech</a> ·
+  <a href="https://konektbarangay.vercel.app">KonektBarangay</a> ·
+  <a href="https://awesometodo-s-1.onrender.com/">AwesomeToDo-s</a> ·
+  <a href="https://carldev.vercel.app">Portfolio</a>
+</sub></p>
 
 <!-- ░░ FOOTER ░░ -->
 <div align="center">
 
-<sub>`$ git commit -m "final fix"` → `"final fix for real"` → `"ok THIS is the final fix"` 😅</sub>
+<sub><i>"final fix" → "final fix for real" → "ok THIS is the final fix"</i></sub>
 
 <br/>⭐ <b>Like something here? Drop a star!</b> ⭐
 
