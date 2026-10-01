@@ -16,37 +16,8 @@
 
 </div>
 
-<!-- ░░ ABOUT + SNAPSHOT (side by side) ░░ -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 👋 About me
-
-```ts
-const carl = {
-  role:     "BSIT Student · Full-Stack Dev",
-  based:    "Iloilo City, PH 🇵🇭",
-  building: ["Teech", "KonektBarangay"],
-  learning: ["Backend architecture", "DevOps"],
-  fuel:     "☕ + lo-fi",
-};
-```
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Quick facts
-
-- 🔭 Shipping **[Teech](https://github.com/Aelowww/Teech)**, a consultation booking platform
-- 🏘️ Built **[KonektBarangay](https://github.com/Aelowww/KonektBarangay)** for barangay services
-- 🌱 Leveling up in databases & deployment
-- 🤝 Open to collabs on student & community projects
-- 💬 Ask me about **Next.js, React, TypeScript, Node**
-
-</td>
-</tr>
-</table>
+<!-- ░░ ABOUT ░░ -->
+<p align="center"><img src="./assets/about.svg" width="100%" alt="About me: BSIT student and full-stack developer from Iloilo City, building Teech and KonektBarangay" /></p>
 
 <!-- ░░ TECH STACK (animated) ░░ -->
 <h3 align="center">🛠 Tech I work with</h3>
@@ -54,18 +25,16 @@ const carl = {
 
 <!-- ░░ STATS (full width) ░░ -->
 <h3 align="center">📊 GitHub at a glance</h3>
-<table width="100%">
-<tr>
-<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aelowww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" /></td>
-<td width="50%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelowww&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&card_height=195" width="100%" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=Aelowww&theme=tokyonight&hide_border=true" width="100%" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aelowww&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aelowww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=495" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelowww&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=495" width="49%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aelowww&theme=tokyonight&hide_border=true&card_width=995" width="99%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aelowww&theme=tokyo-night&hide_border=true&area=true&radius=8" width="99%" />
+</p>
 
 <!-- ░░ SNAKE ░░ -->
 <p align="center">

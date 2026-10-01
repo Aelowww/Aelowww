@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+<style>
+  .mono{font:500 15px 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+  .sans{font:500 15px 'Segoe UI',-apple-system,Ubuntu,'Helvetica Neue',sans-serif}
+  .h{font:700 13px 'Segoe UI',-apple-system,Ubuntu,sans-serif;letter-spacing:2px;fill:#7d8590}
+  .k{fill:#ff7b72}.v{fill:#79c0ff}.s{fill:#a5d6ff}.p{fill:#e6edf3}.c{fill:#8b949e}.t{fill:#e6edf3}.b{fill:#58a6ff;font-weight:700}
+  .cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+  .row{opacity:0;animation:in .5s ease forwards}
+  @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.row,.cur{animation:none;opacity:1}}
+</style>
+<rect x="0.5" y="0.5" width="999" height="249" rx="14" fill="#0d1117" stroke="#30363d"/>
+<line x1="500" y1="28" x2="500" y2="222" stroke="#30363d"/>
+
+<!-- left: code -->
+<circle cx="36" cy="32" r="5" fill="#ff5f57"/><circle cx="54" cy="32" r="5" fill="#febc2e"/><circle cx="72" cy="32" r="5" fill="#28c840"/>
+<text x="96" y="37" class="h">ABOUT.TS</text>
+<g class="mono">
+  <text x="36" y="80" class="row" style="animation-delay:.1s"><tspan class="k">const</tspan><tspan class="p"> carl = {</tspan></text>
+  <text x="56" y="106" class="row" style="animation-delay:.25s"><tspan class="v">role</tspan><tspan class="p">:     </tspan><tspan class="s">"BSIT Student · Full-Stack Dev"</tspan><tspan class="p">,</tspan></text>
+  <text x="56" y="132" class="row" style="animation-delay:.4s"><tspan class="v">based</tspan><tspan class="p">:    </tspan><tspan class="s">"Iloilo City, PH"</tspan><tspan class="p">,</tspan></text>
+  <text x="56" y="158" class="row" style="animation-delay:.55s"><tspan class="v">building</tspan><tspan class="p">: [</tspan><tspan class="s">"Teech"</tspan><tspan class="p">, </tspan><tspan class="s">"KonektBarangay"</tspan><tspan class="p">],</tspan></text>
+  <text x="56" y="184" class="row" style="animation-delay:.7s"><tspan class="v">learning</tspan><tspan class="p">: [</tspan><tspan class="s">"Backend"</tspan><tspan class="p">, </tspan><tspan class="s">"DevOps"</tspan><tspan class="p">],</tspan></text>
+  <text x="36" y="210" class="row" style="animation-delay:.85s"><tspan class="p">};</tspan><tspan class="c">  // fueled by coffee</tspan><tspan class="p cur"> ▍</tspan></text>
+</g>
+
+<!-- right: facts -->
+<text x="536" y="37" class="h">QUICK FACTS</text>
+<g class="sans">
+  <g class="row" style="animation-delay:.3s"><circle cx="542" cy="75" r="4" fill="#58a6ff"/><text x="560" y="80" class="t">Shipping <tspan class="b">Teech</tspan>, a consultation booking platform</text></g>
+  <g class="row" style="animation-delay:.45s"><circle cx="542" cy="109" r="4" fill="#3fb950"/><text x="560" y="114" class="t">Built <tspan class="b">KonektBarangay</tspan> for barangay services</text></g>
+  <g class="row" style="animation-delay:.6s"><circle cx="542" cy="143" r="4" fill="#d29922"/><text x="560" y="148" class="t">Leveling up in databases &amp; deployment</text></g>
+  <g class="row" style="animation-delay:.75s"><circle cx="542" cy="177" r="4" fill="#a371f7"/><text x="560" y="182" class="t">Open to student &amp; community collabs</text></g>
+  <g class="row" style="animation-delay:.9s"><circle cx="542" cy="211" r="4" fill="#f778ba"/><text x="560" y="216" class="t">Ask me about <tspan class="b">Next.js · React · TS · Node</tspan></text></g>
+</g>
+</svg>
