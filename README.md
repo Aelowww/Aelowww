@@ -1,86 +1,112 @@
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║           Hi there, I'm Carl Gemuel Taberna! 👋                ║
-║                                                                ║
-║  📍 Based in Iloilo City, Philippines                          ║
-║  💼 BSIT Student | Full-Stack Developer                        ║
-║  🚀 Building practical web applications                        ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Carl+Gemuel+Taberna!+%F0%9F%91%8B;BSIT+Student+%7C+Full-Stack+Developer;Building+practical+web+apps+%F0%9F%9A%80" alt="Typing intro" />
+
+📍 Iloilo City, Philippines &nbsp;•&nbsp; 💼 BSIT Student &nbsp;•&nbsp; 🚀 Full-Stack Developer
+
+<a href="https://carldev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/carlgemueltaberna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/aelowww"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="mailto:taberna.carlq11a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Aelowww&style=flat-square&color=58a6ff&label=Profile+views" />
+
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 ```python
-class Developer:
+class Carl:
     def __init__(self):
-        self.name = "Carl Gemuel Taberna"
-        self.passion = "Creating beautiful, user-friendly web applications"
-        self.focus = ["Full-stack development", "Problem solving", "Clean code"]
+        self.role = "BSIT Student & Full-Stack Developer"
+        self.location = "Iloilo City, PH 🇵🇭"
+        self.focus = ["Full-stack web apps", "Problem solving", "Clean code"]
         self.learning = ["Backend architecture", "Database design", "DevOps"]
-        
-    def hello_world(self):
-        print("Welcome to my GitHub! I love crafting elegant solutions with modern tech.")
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something useful. 🚀")
 ```
 
-I'm a BSIT student and aspiring full-stack developer passionate about building practical web applications. I enjoy working with both frontend and backend technologies, and I'm always eager to learn more about new frameworks and best practices.
+- 🔭 Currently building **[Teech](https://github.com/Aelowww/Teech)**, a consultation appointment platform for students and faculty
+- 🌱 Learning backend architecture, database design, and DevOps
+- 🤝 Open to collaborating on student and community projects
+- 💬 Ask me about **Next.js, React, TypeScript, and Node.js**
 
 ---
 
-## 🛠 Technologies & Tools
+## 🛠 Tech Stack
 
-**Frontend**
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" />
+</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,supabase&theme=dark" />
+</p>
 
-**Backend**
+<p align="center">
+  <b>Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Database & Storage**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <b>Tools & Deployment</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,linux,vscode&theme=dark" />
+</p>
 
 ---
 
-## 📁 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| **Teech** | Full-stack consultation appointment platform for students and faculty | Next.js, TypeScript, PostgreSQL | [Repo](https://github.com/Aelowww/Teech) · [Live](https://teech-app.vercel.app) |
-| **KonektBarangay** | Digital barangay services platform for document requests and appointments | React, Node.js, MongoDB | [Repo](https://github.com/Aelowww/KonektBarangay) · [Live](https://konektbarangay.vercel.app) |
-| **AwesomeToDo-s** | Full-stack task management application with real-time sync | MERN Stack | [Repo](https://github.com/Aelowww/AwesomeToDo-s) · [Live](https://awesometodo-s-1.onrender.com/) |
-| **Personal Portfolio** | Developer portfolio showcasing projects and experience | Next.js, TypeScript | [Repo](https://github.com/Aelowww/Personal-Portfolio) · [Live](https://carldev.vercel.app) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📅 [Teech](https://github.com/Aelowww/Teech)
+Full-stack consultation appointment platform for students and faculty.
 
-## 💡 Fun Fact
+`Next.js` `TypeScript` `PostgreSQL`
 
-```bash
-I once debugged a production issue at 2 AM while sipping cold coffee ☕
-and realized the problem was a missing semicolon. Now I use a linter! 😅
-```
+🔗 [Live demo](https://teech-app.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏘️ [KonektBarangay](https://github.com/Aelowww/KonektBarangay)
+Digital barangay services platform for document requests and appointments.
+
+`React` `Node.js` `MongoDB`
+
+🔗 [Live demo](https://konektbarangay.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ [AwesomeToDo-s](https://github.com/Aelowww/AwesomeToDo-s)
+Full-stack task manager with real-time sync.
+
+`MongoDB` `Express` `React` `Node.js`
+
+🔗 [Live demo](https://awesometodo-s-1.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [Personal Portfolio](https://github.com/Aelowww/Personal-Portfolio)
+My developer portfolio showcasing projects and experience.
+
+`Next.js` `TypeScript`
+
+🔗 [Live site](https://carldev.vercel.app)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,27 +114,31 @@ and realized the problem was a missing semicolon. Now I use a linter! 😅
 
 <div align="center">
 
-![Carl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aelowww&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=58a6ff)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aelowww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelowww&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aelowww&theme=dark&hide_border=true&bg_color=0d1117&layout=compact)
+<img src="https://streak-stats.demolab.com?user=Aelowww&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aelowww&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 💡 Fun Fact
 
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlgemueltaberna)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aelowww)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://carldev.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taberna.carlq11a@gmail.com)
+```bash
+$ git commit -m "final fix"
+$ git commit -m "final fix for real"
+$ git commit -m "ok THIS is the final fix" 😅
+```
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by Carl**
+⭐ **If you like my projects, consider giving them a star!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer" width="100%" />
 
 </div>
