@@ -1,43 +1,65 @@
-# Carl Gemuel Taberna
+```
+╔════════════════════════════════════════════════════════════════╗
+║  ./aelowww                                                     ║
+║  BSIT Student | Full-Stack Developer | Problem Solver         ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-BSIT student and aspiring full-stack developer based in Iloilo City, Philippines.
+### Core
 
-I build practical web applications focused on clean interfaces, useful workflows, and real-world problem solving. Right now I am growing through projects built with Next.js, React, TypeScript, Node.js, Supabase, PostgreSQL, and MongoDB.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Carl Gemuel Taberna"
+        self.location = "Iloilo City, PH"
+        self.focus = ["full-stack", "UX", "real-world problems"]
+        self.learning = ["backend systems", "databases", "architecture"]
+        
+    @property
+    def stack(self):
+        return {
+            "frontend": ["Next.js", "React", "TypeScript", "Vite"],
+            "backend": ["Node.js", "Express"],
+            "database": ["PostgreSQL", "MongoDB", "Supabase"],
+            "tools": ["Git", "GitHub", "Vercel", "Render"]
+        }
+```
 
-## Featured Projects
+### Featured
 
-- [Portfolio](https://github.com/Aelowww/Portfolio)  
-  Personal website built with Next.js and TypeScript.  
-  Live site: https://carldev.vercel.app
+| Project | Tech | Link |
+|---------|------|------|
+| **Portfolio** | Next.js, TS | [repo](https://github.com/Aelowww/Portfolio) / [live](https://carldev.vercel.app) |
+| **KonektBarangay** | React, Node, Mongo | [repo](https://github.com/Aelowww/KonektBarangay) / [live](https://konektbarangay.vercel.app) |
+| **AwesomeToDo-s** | MERN Stack | [repo](https://github.com/Aelowww/AwesomeToDo-s) / [live](https://awesometodo-s-1.onrender.com/) |
 
-- [KonektBarangay](https://github.com/Aelowww/KonektBarangay)  
-  Digital barangay services platform for document requests, appointment scheduling, and service tracking.  
-  Live site: https://konektbarangay.vercel.app
+### Current
 
-- [AwesomeToDo-s](https://github.com/Aelowww/AwesomeToDo-s)  
-  Full-stack task management app built with React, Express, and MongoDB.  
-  Live site: https://awesometodo-s-1.onrender.com/
+```bash
+~/projects$ git status
+  • Strengthening full-stack fundamentals
+  • Exploring backend & database design
+  • Seeking internship opportunities
+  • Shipping more ambitious projects
+```
 
-## Tech Stack
+### Connect
 
-- Frontend: Next.js, React, TypeScript, Vite
-- Backend: Node.js, Express, Supabase
-- Database: PostgreSQL, MongoDB
-- Tools: Git, GitHub, Vercel, Render
+```bash
+~/$ curl https://carldev.vercel.app
+~/$ cat links.txt
+  → Portfolio: https://carldev.vercel.app
+  → LinkedIn: https://www.linkedin.com/in/carlgemueltaberna
+  → Twitter: https://x.com/aelowww
+  → Email: taberna.carlq11a@gmail.com
+```
 
-## Current Focus
+---
 
-- Building stronger full-stack projects
-- Improving UI and user experience
-- Preparing for internship opportunities
-- Expanding backend and database experience
+<div align="center">
 
-## Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aelowww&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117)
 
-- Portfolio: https://carldev.vercel.app
-- GitHub: https://github.com/Aelowww
-- LinkedIn: https://www.linkedin.com/in/carlgemueltaberna
-- Facebook: https://www.facebook.com/cgtaberna.10
-- Instagram: https://www.instagram.com/crlxgml/
-- X: https://x.com/aelowww
-- Email: taberna.carlq11a@gmail.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aelowww&theme=dark&hide_border=true&bg_color=0d1117&layout=compact)
+
+</div>
