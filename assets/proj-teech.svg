@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180">
+<style>.n{font:700 21px 'Segoe UI',-apple-system,Ubuntu,sans-serif;fill:#e6edf3}.d{font:400 14px 'Segoe UI',-apple-system,Ubuntu,sans-serif;fill:#8b949e}.tag{font:500 12px 'Segoe UI',-apple-system,Ubuntu,sans-serif;fill:#c9d1d9}.num{font:700 13px 'JetBrains Mono',Consolas,monospace;fill:#58a6ff}.go{font:600 13px 'Segoe UI',sans-serif;fill:#58a6ff}</style>
+<rect x="0.5" y="0.5" width="494" height="179" rx="14" fill="#0d1117" stroke="#30363d"/>
+<clipPath id="cl"><rect x="0.5" y="0.5" width="494" height="179" rx="14"/></clipPath><rect clip-path="url(#cl)" x="0" y="0" width="5" height="180" fill="#58a6ff"/>
+<text x="28" y="42" class="num">01</text>
+<text x="56" y="44" class="n">Teech</text>
+<text x="466" y="42" class="go" text-anchor="end">view ↗</text>
+<text x="28" y="80" class="d">Consultation appointment platform</text><text x="28" y="101" class="d">for students &amp; faculty.</text>
+<rect x="28" y="128" width="85" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="41" cy="141" r="4" fill="#e6edf3"/><text x="51" y="145.5" class="tag">Next.js</text><rect x="121" y="128" width="108" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="134" cy="141" r="4" fill="#3178c6"/><text x="144" y="145.5" class="tag">TypeScript</text><rect x="237" y="128" width="108" height="26" rx="13" fill="#161b22" stroke="#30363d"/><circle cx="250" cy="141" r="4" fill="#6b8ef0"/><text x="260" y="145.5" class="tag">PostgreSQL</text>
+</svg>
